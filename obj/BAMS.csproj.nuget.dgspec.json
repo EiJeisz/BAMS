@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\shitlikebams\\BAMSs (3)\\BAMSs\\BAMSs\\BAMSs\\BAMS\\BAMS\\BAMS.csproj": {}
+  },
+  "projects": {
+    "H:\\shitlikebams\\BAMSs (3)\\BAMSs\\BAMSs\\BAMSs\\BAMS\\BAMS\\BAMS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\shitlikebams\\BAMSs (3)\\BAMSs\\BAMSs\\BAMSs\\BAMS\\BAMS\\BAMS.csproj",
+        "projectName": "BAMS",
+        "projectPath": "H:\\shitlikebams\\BAMSs (3)\\BAMSs\\BAMSs\\BAMSs\\BAMS\\BAMS\\BAMS.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "H:\\shitlikebams\\BAMSs (3)\\BAMSs\\BAMSs\\BAMSs\\BAMS\\BAMS\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "H:\\DevXpress\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "H:\\DevXpress\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "dependencies": {
+            "DevExpress.Win.Design": {
+              "target": "Package",
+              "version": "[24.2.3, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.3, )"
+            },
+            "QuestPDF": {
+              "target": "Package",
+              "version": "[2026.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.205/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

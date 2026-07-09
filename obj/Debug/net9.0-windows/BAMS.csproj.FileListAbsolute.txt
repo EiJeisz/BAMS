@@ -1,0 +1,730 @@
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-Black.ttf
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-BlackItalic.ttf
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-Bold.ttf
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-BoldItalic.ttf
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-ExtraBold.ttf
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-ExtraBoldItalic.ttf
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-ExtraLight.ttf
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-ExtraLightItalic.ttf
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-Italic.ttf
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-Light.ttf
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-LightItalic.ttf
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-Medium.ttf
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-MediumItalic.ttf
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-Regular.ttf
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-SemiBold.ttf
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-SemiBoldItalic.ttf
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-Thin.ttf
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-ThinItalic.ttf
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\OFL.txt
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\BAMS.exe
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\BAMS.dll.config
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\BAMS.deps.json
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\BAMS.runtimeconfig.json
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\BAMS.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\BAMS.pdb
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Azure.Core.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Azure.Identity.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraCharts.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Charts.v24.2.Core.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.CodeParser.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Data.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Data.Desktop.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.DataAccess.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.DataAccess.v24.2.UI.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.DataVisualization.v24.2.Core.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Diagram.v24.2.Core.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Drawing.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraGauges.v24.2.Core.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Images.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Map.v24.2.Core.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Mvvm.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Office.v24.2.Core.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Pdf.v24.2.Core.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Pdf.v24.2.Drawing.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.PivotGrid.v24.2.Core.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Printing.v24.2.Core.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraReports.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.RichEdit.v24.2.Core.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.RichEdit.v24.2.Export.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraScheduler.v24.2.Core.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraScheduler.v24.2.Core.Desktop.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Sparkline.v24.2.Core.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.SpellChecker.v24.2.Core.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Spreadsheet.v24.2.Core.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraTreeMap.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.TreeMap.v24.2.Core.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Utils.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Utils.v24.2.UI.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraNavBar.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraWizard.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraCharts.v24.2.Extensions.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraCharts.v24.2.UI.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraCharts.v24.2.Wizard.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraDiagram.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraDialogs.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Dialogs.v24.2.Core.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraGantt.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraGauges.v24.2.Presets.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraGauges.v24.2.Win.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraGrid.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraMap.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraBars.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraEditors.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraLayout.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraPdfViewer.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraPivotGrid.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraPrinting.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraReports.v24.2.Extensions.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraRichEdit.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraScheduler.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraScheduler.v24.2.Extensions.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraScheduler.v24.2.Reporting.Extensions.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraScheduler.v24.2.Reporting.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraSpellChecker.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraSpreadsheet.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraTreeList.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraTreeMap.v24.2.UI.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraVerticalGrid.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Xpo.v24.2.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Bcl.Cryptography.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Extensions.ObjectPool.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\QuestPDF.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.ClientModel.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.Data.OleDb.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.Data.SqlClient.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.Memory.Data.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.ServiceModel.Http.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.ServiceModel.NetFramingBase.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.ServiceModel.NetTcp.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.ServiceModel.Primitives.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\cs\System.ServiceModel.Http.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\de\System.ServiceModel.Http.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\es\System.ServiceModel.Http.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\fr\System.ServiceModel.Http.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\it\System.ServiceModel.Http.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ja\System.ServiceModel.Http.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ko\System.ServiceModel.Http.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pl\System.ServiceModel.Http.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ru\System.ServiceModel.Http.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\tr\System.ServiceModel.Http.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\cs\System.ServiceModel.NetFramingBase.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\de\System.ServiceModel.NetFramingBase.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\es\System.ServiceModel.NetFramingBase.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\fr\System.ServiceModel.NetFramingBase.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\it\System.ServiceModel.NetFramingBase.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ja\System.ServiceModel.NetFramingBase.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ko\System.ServiceModel.NetFramingBase.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pl\System.ServiceModel.NetFramingBase.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pt-BR\System.ServiceModel.NetFramingBase.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ru\System.ServiceModel.NetFramingBase.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\tr\System.ServiceModel.NetFramingBase.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hans\System.ServiceModel.NetFramingBase.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hant\System.ServiceModel.NetFramingBase.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\cs\System.ServiceModel.NetTcp.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\de\System.ServiceModel.NetTcp.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\es\System.ServiceModel.NetTcp.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\fr\System.ServiceModel.NetTcp.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\it\System.ServiceModel.NetTcp.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ja\System.ServiceModel.NetTcp.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ko\System.ServiceModel.NetTcp.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pl\System.ServiceModel.NetTcp.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pt-BR\System.ServiceModel.NetTcp.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ru\System.ServiceModel.NetTcp.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\tr\System.ServiceModel.NetTcp.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hans\System.ServiceModel.NetTcp.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hant\System.ServiceModel.NetTcp.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\de\System.ServiceModel.Primitives.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\es\System.ServiceModel.Primitives.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\it\System.ServiceModel.Primitives.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\linux-arm64\native\libQuestPdfSkia.so
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\linux-arm64\native\libqpdf.so
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\linux-musl-x64\native\libqpdf.so
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\linux-x64\native\libQuestPdfSkia.so
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\linux-x64\native\libqpdf.so
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\osx-arm64\native\libqpdf.dylib
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\osx-x64\native\libqpdf.dylib
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x64\native\QuestPdfSkia.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x64\native\libgcc_s_seh-1.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x64\native\libstdc++-6.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x64\native\libwinpthread-1.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x64\native\qpdf.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x64\native\zlib1.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x86\native\QuestPdfSkia.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x86\native\libstdc++-6.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x86\native\libwinpthread-1.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x86\native\qpdf.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x86\native\zlib1.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-arm64\native\sni.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x64\native\sni.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x86\native\sni.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.csproj.AssemblyReference.cache
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.Forms.AddUserForm.resources
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.Forms.DashboardForm.resources
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.Forms.EditUserForm.resources
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.LoginForm.resources
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.Properties.Resources.resources
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.UserControls.AttendanceUC.resources
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.UserControls.DashboardUC.resources
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.UserControls.FpGrowthUC.resources
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.UserControls.UploadDataUC.resources
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.UserControls.UserListUC.resources
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.csproj.GenerateResource.cache
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.GeneratedMSBuildEditorConfig.editorconfig
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.AssemblyInfoInputs.cache
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.AssemblyInfo.cs
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.csproj.CoreCompileInputs.cache
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.sourcelink.json
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.csproj.Up2Date
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\refint\BAMS.dll
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.pdb
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.genruntimeconfig.cache
+H:\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\ref\BAMS.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-Black.ttf
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-BlackItalic.ttf
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-Bold.ttf
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-BoldItalic.ttf
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-ExtraBold.ttf
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-ExtraBoldItalic.ttf
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-ExtraLight.ttf
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-ExtraLightItalic.ttf
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-Italic.ttf
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-Light.ttf
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-LightItalic.ttf
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-Medium.ttf
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-MediumItalic.ttf
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-Regular.ttf
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-SemiBold.ttf
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-SemiBoldItalic.ttf
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-Thin.ttf
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-ThinItalic.ttf
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\OFL.txt
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\BAMS.exe
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\BAMS.dll.config
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\BAMS.deps.json
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\BAMS.runtimeconfig.json
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\BAMS.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\BAMS.pdb
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Azure.Core.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Azure.Identity.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraCharts.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Charts.v24.2.Core.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.CodeParser.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Data.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Data.Desktop.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.DataAccess.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.DataAccess.v24.2.UI.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.DataVisualization.v24.2.Core.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Diagram.v24.2.Core.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Drawing.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraGauges.v24.2.Core.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Images.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Map.v24.2.Core.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Mvvm.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Office.v24.2.Core.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Pdf.v24.2.Core.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Pdf.v24.2.Drawing.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.PivotGrid.v24.2.Core.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Printing.v24.2.Core.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraReports.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.RichEdit.v24.2.Core.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.RichEdit.v24.2.Export.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraScheduler.v24.2.Core.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraScheduler.v24.2.Core.Desktop.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Sparkline.v24.2.Core.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.SpellChecker.v24.2.Core.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Spreadsheet.v24.2.Core.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraTreeMap.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.TreeMap.v24.2.Core.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Utils.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Utils.v24.2.UI.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraNavBar.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraWizard.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraCharts.v24.2.Extensions.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraCharts.v24.2.UI.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraCharts.v24.2.Wizard.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraDiagram.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraDialogs.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Dialogs.v24.2.Core.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraGantt.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraGauges.v24.2.Presets.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraGauges.v24.2.Win.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraGrid.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraMap.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraBars.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraEditors.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraLayout.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraPdfViewer.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraPivotGrid.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraPrinting.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraReports.v24.2.Extensions.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraRichEdit.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraScheduler.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraScheduler.v24.2.Extensions.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraScheduler.v24.2.Reporting.Extensions.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraScheduler.v24.2.Reporting.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraSpellChecker.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraSpreadsheet.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraTreeList.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraTreeMap.v24.2.UI.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraVerticalGrid.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Xpo.v24.2.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Bcl.Cryptography.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Extensions.ObjectPool.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\QuestPDF.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.ClientModel.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.Data.OleDb.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.Data.SqlClient.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.Memory.Data.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.ServiceModel.Http.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.ServiceModel.NetFramingBase.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.ServiceModel.NetTcp.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.ServiceModel.Primitives.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\cs\System.ServiceModel.Http.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\de\System.ServiceModel.Http.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\es\System.ServiceModel.Http.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\fr\System.ServiceModel.Http.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\it\System.ServiceModel.Http.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ja\System.ServiceModel.Http.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ko\System.ServiceModel.Http.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pl\System.ServiceModel.Http.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ru\System.ServiceModel.Http.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\tr\System.ServiceModel.Http.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\cs\System.ServiceModel.NetFramingBase.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\de\System.ServiceModel.NetFramingBase.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\es\System.ServiceModel.NetFramingBase.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\fr\System.ServiceModel.NetFramingBase.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\it\System.ServiceModel.NetFramingBase.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ja\System.ServiceModel.NetFramingBase.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ko\System.ServiceModel.NetFramingBase.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pl\System.ServiceModel.NetFramingBase.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pt-BR\System.ServiceModel.NetFramingBase.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ru\System.ServiceModel.NetFramingBase.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\tr\System.ServiceModel.NetFramingBase.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hans\System.ServiceModel.NetFramingBase.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hant\System.ServiceModel.NetFramingBase.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\cs\System.ServiceModel.NetTcp.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\de\System.ServiceModel.NetTcp.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\es\System.ServiceModel.NetTcp.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\fr\System.ServiceModel.NetTcp.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\it\System.ServiceModel.NetTcp.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ja\System.ServiceModel.NetTcp.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ko\System.ServiceModel.NetTcp.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pl\System.ServiceModel.NetTcp.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pt-BR\System.ServiceModel.NetTcp.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ru\System.ServiceModel.NetTcp.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\tr\System.ServiceModel.NetTcp.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hans\System.ServiceModel.NetTcp.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hant\System.ServiceModel.NetTcp.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\de\System.ServiceModel.Primitives.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\es\System.ServiceModel.Primitives.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\it\System.ServiceModel.Primitives.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\linux-arm64\native\libQuestPdfSkia.so
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\linux-arm64\native\libqpdf.so
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\linux-musl-x64\native\libqpdf.so
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\linux-x64\native\libQuestPdfSkia.so
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\linux-x64\native\libqpdf.so
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\osx-arm64\native\libqpdf.dylib
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\osx-x64\native\libqpdf.dylib
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x64\native\QuestPdfSkia.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x64\native\libgcc_s_seh-1.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x64\native\libstdc++-6.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x64\native\libwinpthread-1.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x64\native\qpdf.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x64\native\zlib1.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x86\native\QuestPdfSkia.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x86\native\libstdc++-6.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x86\native\libwinpthread-1.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x86\native\qpdf.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x86\native\zlib1.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-arm64\native\sni.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x64\native\sni.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x86\native\sni.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.csproj.AssemblyReference.cache
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.Forms.AddUserForm.resources
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.Forms.DashboardForm.resources
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.Forms.EditUserForm.resources
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.Forms.FingerprintRegistrationForm.resources
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.LoginForm.resources
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.Properties.Resources.resources
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.UserControls.AttendanceUC.resources
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.UserControls.DashboardUC.resources
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.UserControls.FpGrowthUC.resources
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.UserControls.UploadDataUC.resources
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.UserControls.UserListUC.resources
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.UserControls.UserManagementUC.resources
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.csproj.GenerateResource.cache
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.GeneratedMSBuildEditorConfig.editorconfig
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.AssemblyInfoInputs.cache
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.AssemblyInfo.cs
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.csproj.CoreCompileInputs.cache
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.sourcelink.json
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.csproj.Up2Date
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\refint\BAMS.dll
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.pdb
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.genruntimeconfig.cache
+H:\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\ref\BAMS.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-Black.ttf
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-BlackItalic.ttf
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-Bold.ttf
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-BoldItalic.ttf
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-ExtraBold.ttf
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-ExtraBoldItalic.ttf
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-ExtraLight.ttf
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-ExtraLightItalic.ttf
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-Italic.ttf
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-Light.ttf
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-LightItalic.ttf
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-Medium.ttf
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-MediumItalic.ttf
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-Regular.ttf
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-SemiBold.ttf
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-SemiBoldItalic.ttf
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-Thin.ttf
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\Lato-ThinItalic.ttf
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\LatoFont\OFL.txt
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\BAMS.exe
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\BAMS.dll.config
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\BAMS.deps.json
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\BAMS.runtimeconfig.json
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\BAMS.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\BAMS.pdb
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Azure.Core.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Azure.Identity.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraCharts.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Charts.v24.2.Core.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.CodeParser.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Data.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Data.Desktop.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.DataAccess.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.DataAccess.v24.2.UI.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.DataVisualization.v24.2.Core.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Diagram.v24.2.Core.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Drawing.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraGauges.v24.2.Core.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Images.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Map.v24.2.Core.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Mvvm.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Office.v24.2.Core.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Pdf.v24.2.Core.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Pdf.v24.2.Drawing.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.PivotGrid.v24.2.Core.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Printing.v24.2.Core.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraReports.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.RichEdit.v24.2.Core.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.RichEdit.v24.2.Export.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraScheduler.v24.2.Core.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraScheduler.v24.2.Core.Desktop.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Sparkline.v24.2.Core.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.SpellChecker.v24.2.Core.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Spreadsheet.v24.2.Core.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraTreeMap.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.TreeMap.v24.2.Core.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Utils.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Utils.v24.2.UI.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraNavBar.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraWizard.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraCharts.v24.2.Extensions.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraCharts.v24.2.UI.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraCharts.v24.2.Wizard.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraDiagram.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraDialogs.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Dialogs.v24.2.Core.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraGantt.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraGauges.v24.2.Presets.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraGauges.v24.2.Win.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraGrid.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraMap.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraBars.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraEditors.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraLayout.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraPdfViewer.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraPivotGrid.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraPrinting.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraReports.v24.2.Extensions.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraRichEdit.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraScheduler.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraScheduler.v24.2.Extensions.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraScheduler.v24.2.Reporting.Extensions.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraScheduler.v24.2.Reporting.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraSpellChecker.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraSpreadsheet.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraTreeList.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraTreeMap.v24.2.UI.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.XtraVerticalGrid.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\DevExpress.Xpo.v24.2.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Bcl.Cryptography.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Extensions.ObjectPool.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\QuestPDF.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.ClientModel.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.Data.OleDb.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.Data.SqlClient.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.Memory.Data.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.ServiceModel.Http.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.ServiceModel.NetFramingBase.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.ServiceModel.NetTcp.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.ServiceModel.Primitives.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\cs\System.ServiceModel.Http.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\de\System.ServiceModel.Http.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\es\System.ServiceModel.Http.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\fr\System.ServiceModel.Http.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\it\System.ServiceModel.Http.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ja\System.ServiceModel.Http.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ko\System.ServiceModel.Http.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pl\System.ServiceModel.Http.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ru\System.ServiceModel.Http.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\tr\System.ServiceModel.Http.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\cs\System.ServiceModel.NetFramingBase.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\de\System.ServiceModel.NetFramingBase.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\es\System.ServiceModel.NetFramingBase.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\fr\System.ServiceModel.NetFramingBase.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\it\System.ServiceModel.NetFramingBase.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ja\System.ServiceModel.NetFramingBase.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ko\System.ServiceModel.NetFramingBase.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pl\System.ServiceModel.NetFramingBase.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pt-BR\System.ServiceModel.NetFramingBase.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ru\System.ServiceModel.NetFramingBase.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\tr\System.ServiceModel.NetFramingBase.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hans\System.ServiceModel.NetFramingBase.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hant\System.ServiceModel.NetFramingBase.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\cs\System.ServiceModel.NetTcp.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\de\System.ServiceModel.NetTcp.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\es\System.ServiceModel.NetTcp.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\fr\System.ServiceModel.NetTcp.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\it\System.ServiceModel.NetTcp.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ja\System.ServiceModel.NetTcp.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ko\System.ServiceModel.NetTcp.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pl\System.ServiceModel.NetTcp.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pt-BR\System.ServiceModel.NetTcp.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ru\System.ServiceModel.NetTcp.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\tr\System.ServiceModel.NetTcp.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hans\System.ServiceModel.NetTcp.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hant\System.ServiceModel.NetTcp.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\de\System.ServiceModel.Primitives.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\es\System.ServiceModel.Primitives.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\it\System.ServiceModel.Primitives.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\linux-arm64\native\libQuestPdfSkia.so
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\linux-arm64\native\libqpdf.so
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\linux-musl-x64\native\libqpdf.so
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\linux-x64\native\libQuestPdfSkia.so
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\linux-x64\native\libqpdf.so
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\osx-arm64\native\libqpdf.dylib
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\osx-x64\native\libqpdf.dylib
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x64\native\QuestPdfSkia.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x64\native\libgcc_s_seh-1.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x64\native\libstdc++-6.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x64\native\libwinpthread-1.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x64\native\qpdf.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x64\native\zlib1.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x86\native\QuestPdfSkia.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x86\native\libstdc++-6.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x86\native\libwinpthread-1.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x86\native\qpdf.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x86\native\zlib1.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-arm64\native\sni.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x64\native\sni.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win-x86\native\sni.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.csproj.AssemblyReference.cache
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.Forms.AddUserForm.resources
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.Forms.DashboardForm.resources
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.Forms.EditUserForm.resources
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.Forms.FingerprintRegistrationForm.resources
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.LoginForm.resources
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.Properties.Resources.resources
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.UserControls.AttendanceUC.resources
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.UserControls.DashboardUC.resources
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.UserControls.FpGrowthUC.resources
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.UserControls.UploadDataUC.resources
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.UserControls.UserListUC.resources
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.UserControls.UserManagementUC.resources
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.csproj.GenerateResource.cache
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.GeneratedMSBuildEditorConfig.editorconfig
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.AssemblyInfoInputs.cache
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.AssemblyInfo.cs
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.csproj.CoreCompileInputs.cache
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.sourcelink.json
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.csproj.Up2Date
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\refint\BAMS.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.pdb
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\BAMS.genruntimeconfig.cache
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\obj\Debug\net9.0-windows\ref\BAMS.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.Configuration.ConfigurationManager.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.Diagnostics.EventLog.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.Security.Cryptography.Pkcs.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\System.Security.Cryptography.ProtectedData.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+H:\shitlikebams\BAMSs (3)\BAMSs\BAMSs\BAMSs\BAMS\BAMS\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
